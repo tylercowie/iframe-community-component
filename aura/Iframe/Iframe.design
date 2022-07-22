@@ -1,4 +1,4 @@
-<design:component label="iFrame Component">
+<design:component label="iFrame">
     <design:attribute name="iframeUrl" label="Source URL (HTTPS only)" default="https://put-your-url.here/"/>
     <design:attribute name="width" label="Width" default="100%"/>
     <design:attribute name="height" label="Height" default="500px"/>
